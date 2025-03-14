@@ -1,2 +1,3 @@
-# kdfs
-KnowDoor/FaceSmash
+# KnowDoor/FaceSmash
+
+A hackathon project
